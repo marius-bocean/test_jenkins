@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdb86266-2039-42cf-8fd1-e707052bac1d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/app/view/main/MainController.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/view/main/MainController.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainController.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/view/main/MainController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/view/main/MainController.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/ext/classic/classic/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/locale/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-aria/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-base/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-classic-sandbox/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-classic/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-crisp-touch/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-crisp/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-gray/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-neptune-touch/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-neptune/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-neutral/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-triton/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/touch-sizing/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/modern/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/reactor/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-base/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-ios/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-material/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-neptune/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-triton/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/treegrid/package.json" />
+      <path value="$PROJECT_DIR$/ext/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/amf/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/charts/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/core/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/font-awesome/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/font-ext/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/font-ios/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/font-pictos/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/google/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/legacy/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/soap/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/ux/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="110" />
+    <option name="y" value="70" />
+    <option name="width" value="1440" />
+    <option name="height" value="830" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test_jenkins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_jenkins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_jenkins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_jenkins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_jenkins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_jenkins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="classic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_jenkins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="classic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_jenkins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="classic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdb86266-2039-42cf-8fd1-e707052bac1d" name="Default" comment="" />
+      <created>1535292869511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535292869511</updated>
+      <workItem from="1535292872085" duration="119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="119000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

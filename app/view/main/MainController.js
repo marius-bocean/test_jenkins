@@ -13,6 +13,15 @@ Ext.define('jenkins.view.main.MainController', {
 
     onConfirm: function (choice) {
         if (choice === 'yes') {
+
+            Ext.Msg.confirm("Confirmation", "Do you want to Save changes?", function(btnText){
+                if(btnText === "no"){
+                    Ext.Msg.alert("Alert", "You have confirmed 'No'.");
+                }
+                else if(btnText === "yes"){
+                    Ext.Msg.alert("Alert", "You have confirmed 'Yes'.");
+                }
+            }, this);
             //
         }
     }
